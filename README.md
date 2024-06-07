@@ -33,8 +33,7 @@
 - 유사도 순 정렬 후 추출된 키워드를 모두 포함하는 URL을 우선 순위로 출력
 
 ## 결과 
-
-  
+![코사인 유사도 결과](https://github.com/futuremirae/Dima_Project_1/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B2%B0%EA%B3%BC%EB%AC%BC.pdf)
 
 
 
